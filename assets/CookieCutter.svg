@@ -3,8 +3,8 @@
 
 <svg
    width="181.34634mm"
-   height="43.990482mm"
-   viewBox="0 0 181.34634 43.990482"
+   height="43.990486mm"
+   viewBox="0 0 181.34634 43.990485"
    version="1.1"
    id="svg1"
    xml:space="preserve"
@@ -13,7 +13,7 @@
    xmlns:svg="http://www.w3.org/2000/svg"><defs
      id="defs1" /><g
      id="layer1"
-     transform="translate(-7.1405869,-61.522045)"><image
+     transform="translate(-16.665581,-62.051212)"><image
        width="38.414597"
        height="22.991156"
        preserveAspectRatio="none"
@@ -68,17 +68,4 @@
        style="font-size:17.6389px;line-height:1;font-family:'Droid Sans Fallback';-inkscape-font-specification:'Droid Sans Fallback';text-align:center;fill:#e3dedb;stroke:#000000;stroke-width:0.091"
        x="166.62737"
        y="81.4963"
-       id="text2">r</text><text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1;font-family:'Droid Sans Fallback';-inkscape-font-specification:'Droid Sans Fallback';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#e3dedb;fill-opacity:1;stroke:#000000;stroke-width:0.091;stroke-opacity:1"
-       x="99.58667"
-       y="94.703384"
-       id="text14"><tspan
-         id="tspan13"
-         style="font-size:10.5833px;stroke-width:0.091"
-         x="99.586662"
-         y="94.703384">A Methodology for Low-Bandwidth </tspan><tspan
-         style="font-size:10.5833px;stroke-width:0.091"
-         x="99.58667"
-         y="105.31717"
-         id="tspan16">Multi-Robot Collaborative SLAM</tspan></text></g></svg>
+       id="text2">r</text></g></svg>
